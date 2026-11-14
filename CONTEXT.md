@@ -60,3 +60,34 @@ A message telling Thread Participants that a new Reply was posted in their Threa
 
 **Muted Thread**:
 A Thread a Participant has turned Reply Notifications off for. Posting in the Thread again doesn't unmute it. Only the user can unmute it. Muting doesn't block a direct Reply to your own Comment. That still notifies you.
+
+### Buying and refunds
+
+**Purchase**:
+One payment for a course, made by an individual student or by a team admin for a team licence.
+_Avoid_: Order, transaction
+
+**Team licence**:
+A Purchase of several seats in a course. Each seat is a code that a team member claims.
+_Avoid_: Bulk purchase, team purchase
+
+**Refund**:
+A request to get back exactly what was paid for a whole Purchase, which a platform Admin then Approves or Declines. A Purchase gets at most one Refund, and a Decline is final. Approving a Refund removes the student's access to the course.
+_Avoid_: Reversal, Chargeback, Cancellation
+
+**Refund eligibility**:
+The conditions a Purchase must meet before a Refund can be requested: it's inside the 14-day window, the buyer has never had an approved Refund for this course, and the course hasn't been used too much (or, for a Team licence, no seat has been claimed).
+_Avoid_: Cancellation offer, refund rules
+
+**Chargeback**:
+A dispute the cardholder raises with their bank, where the bank takes the money back without our agreement. This is not a Refund, and the platform doesn't model it yet.
+
+### Earnings
+
+**Gross revenue**:
+What an instructor's courses took in over a period: Purchases made in that period, minus Refunds approved in that period.
+_Avoid_: Sales, income
+
+**Net earnings**:
+Gross revenue after the platform's fee is taken off. This is what the instructor actually earns.
+_Avoid_: Payout, profit
